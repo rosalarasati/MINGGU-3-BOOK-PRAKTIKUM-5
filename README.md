@@ -19,6 +19,7 @@
 
 3. program menghitung luas segitiga
 
+<IMG src="https://github.com/rosalarasati/MINGGU-3-BOOK-PRAKTIKUM-5/blob/1ca77565a55d0424eda0a7e2d4749d0ad456b50d/segitiga.png">
 
 5. Mencari nilai tertinggi dari sekelompok data
 6. Program menampilkan bilangan kelipatan X saja dari sekelompok data menggunakan list
