@@ -13,8 +13,13 @@
 
 2. Modifikasi soal nomor satu dimana setiap prosedur disimpan dalam file yang berbeda
 
+<img src="https://github.com/rosalarasati/MINGGU-3-BOOK-PRAKTIKUM-5/blob/main/modif%201.png">
 
-4. program menghitung luas segitiga
+<img src="https://github.com/rosalarasati/MINGGU-3-BOOK-PRAKTIKUM-5/blob/main/modif%202.png">
+
+3. program menghitung luas segitiga
+
+
 5. Mencari nilai tertinggi dari sekelompok data
 6. Program menampilkan bilangan kelipatan X saja dari sekelompok data menggunakan list
 7. Program menghitung faktorial sebuah bilangan (input) menggunakan fungsi
